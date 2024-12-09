@@ -1,0 +1,17 @@
+{
+  "url": "https://www.linkedin.com/jobs/search?keywords=backend+developer&location=newyork&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0",
+  "unique_key": "https://www.linkedin.com/jobs/search?keywords=backend+developer&location=newyork&pagenum=0&position=1&trk=public_jobs_jobs-search-bar_search-submit",
+  "method": "GET",
+  "payload": null,
+  "headers": {},
+  "query_params": {},
+  "data": {},
+  "user_data": {},
+  "retry_count": 2,
+  "no_retry": false,
+  "loaded_url": null,
+  "handled_at": null,
+  "id": "adZKmqXUTvydlpY",
+  "json_": "{\n  \"url\": \"https://www.linkedin.com/jobs/search?keywords=backend+developer&location=newyork&trk=public_jobs_jobs-search-bar_search-submit&position=1&pageNum=0\",\n  \"unique_key\": \"https://www.linkedin.com/jobs/search?keywords=backend+developer&location=newyork&pagenum=0&position=1&trk=public_jobs_jobs-search-bar_search-submit\",\n  \"method\": \"GET\",\n  \"payload\": null,\n  \"headers\": {},\n  \"query_params\": {},\n  \"data\": {},\n  \"user_data\": {\n    \"__crawlee\": {\n      \"state\": \"RequestState.ERROR_HANDLER\"\n    }\n  },\n  \"retry_count\": 2,\n  \"no_retry\": false,\n  \"loaded_url\": null,\n  \"handled_at\": \"2024-12-09 19:34:19.842867+00:00\",\n  \"id\": \"adZKmqXUTvydlpY\",\n  \"json_\": null,\n  \"order_no\": null\n}",
+  "order_no": null
+}
